@@ -157,7 +157,6 @@ Each trained model is saved as `best_model_{attack_name}.pth`.
 | Number of Attention Heads | 4 |
 | Window Size (Swin) | 8 × 8 |
 | Shift Size (SW-MSA) | 4 |
-| FETB Blocks (Bottleneck) | 2 |
 
 ---
 
