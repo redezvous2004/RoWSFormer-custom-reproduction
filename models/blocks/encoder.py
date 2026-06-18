@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
-from models.components.feature_extractors import LocalFeatureExtractor
-from models.components import LCESTB
+from models.components.feature_extractor import LocalFeatureExtractor
 from models.components.FETB import FETB
 from models.components.LCESTB import LCESTB
 from models.components.watermark_encoder import WatermarkEncoder

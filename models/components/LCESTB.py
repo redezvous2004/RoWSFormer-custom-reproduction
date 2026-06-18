@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from layers.swin_transfomer import SwinTransformer
+from layers.swin_transformer import SwinTransformer
 
 class LocallyChannelEnhancedBlock(nn.Module):
   def __init__(self, dim, expansion=2):
