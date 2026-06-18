@@ -88,7 +88,7 @@ RoWSFormer-reprod/
 
 ```bash
 # Clone the repository
-https://github.com/redezvous2004/RoWSFormer-custom-reproduction.git
+git clone https://github.com/redezvous2004/RoWSFormer-custom-reproduction.git
 cd RoWSFormer-custom-reproduction
 
 # Create a virtual environment (recommended)
