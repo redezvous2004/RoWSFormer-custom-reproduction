@@ -76,7 +76,6 @@ RoWSFormer-reprod/
 |---|---|
 | Python | ≥ 3.10 |
 | PyTorch | 2.11.0 |
-| TorchVision | 0.26.0 |
 | torch-dct | 0.1.6 |
 | NumPy | 2.0.2 |
 | Kornia | 0.8.3 |
