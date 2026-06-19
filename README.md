@@ -35,7 +35,7 @@ This repository provides a clean, modular PyTorch reproduction of the RoWSFormer
 - **Encoder** — embeds a 64-bit binary watermark into a cover image using a U-Net-style architecture built with Swin Transformer blocks.
 - **Noise Layer** — simulates real-world image distortions (geometric & non-geometric attacks) during training.
 - **Decoder** — extracts the watermark from a (potentially attacked) watermarked image.
-- **3-Phase Training** — follows the paper's progressive training strategy for stable convergence.
+- **3-Phase Training** — progressive training strategy for stable convergence.
 
 ---
 
