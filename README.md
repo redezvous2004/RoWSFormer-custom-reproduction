@@ -113,7 +113,7 @@ This reproduction uses the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) hi
 
 ### 3-Phase Progressive Training Strategy
 
-The training follows a progressive curriculum as described in the paper:
+The training follows a progressive curriculum:
 
 | Phase | Epochs | λ₁ (Image) | λ₂ (Watermark) | λ₃ (Constraint) | Attack | Goal |
 |---|---|---|---|---|---|---|
