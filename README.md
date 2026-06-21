@@ -42,7 +42,7 @@ This repository provides a clean, modular PyTorch reproduction of the RoWSFormer
 ## 📁 Project Structure
 
 ```
-RoWSFormer-reprod/
+RoWSFormer-custom-reproduction-main/
 ├── main.py                         # Entry point: 3-phase training loop + visualization
 ├── train.py                        # Training & validation logic with early stopping
 ├── requirements.txt                # Python dependencies
@@ -89,7 +89,7 @@ RoWSFormer-reprod/
 ```bash
 # Clone the repository
 git clone https://github.com/redezvous2004/RoWSFormer-custom-reproduction.git
-cd RoWSFormer-custom-reproduction
+cd RoWSFormer-custom-reproduction-main
 
 # Create a virtual environment (recommended)
 python -m venv venv
